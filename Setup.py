@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="PYpirepfepc",
-    version="0.4",
+    version="0.5",
     license="MIT",
     description="Cuestionario para reforzar tus conocimientos de python estilo juego trivia",
     author="Franck Pérez C",
